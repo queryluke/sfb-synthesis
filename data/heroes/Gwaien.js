@@ -1,7 +1,7 @@
 export const Gwaien = {
   id: 'gwaien',
   name: 'Gwaien',
-  avatar: '/img/gwaien.jpg',
+  avatar: 'img/gwaien.jpg',
   cards: [
     {
       type: 'hero',

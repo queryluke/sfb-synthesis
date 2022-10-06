@@ -1,7 +1,7 @@
 export const Akhet = {
   id: 'akhet',
   name: 'Akhet',
-  avatar: '/img/akhet.jpg',
+  avatar: 'img/akhet.jpg',
   cards: [
     {
       type: 'hero',

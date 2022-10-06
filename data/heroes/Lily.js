@@ -1,7 +1,7 @@
 export const Lily = {
   id: 'lily',
   name: 'Lil\'Y',
-  avatar: '/img/lily.jpg',
+  avatar: 'img/lily.jpg',
   cards: [
     {
       type: 'hero',

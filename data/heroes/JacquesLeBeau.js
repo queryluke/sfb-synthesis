@@ -1,7 +1,7 @@
 export const JacquesLeBeau = {
   id: 'jacqueslebeau',
   name: 'Jacques le Beau',
-  avatar: '/img/jacques_le_beau.jpg',
+  avatar: 'img/jacques_le_beau.jpg',
   cards: [
     {
       type: 'hero',

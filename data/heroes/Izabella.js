@@ -1,7 +1,7 @@
 export const Izabella = {
   id: 'izabella',
   name: 'Izabella',
-  avatar: '/img/izabella.jpg',
+  avatar: 'img/izabella.jpg',
   cards: [
     {
       type: 'hero',

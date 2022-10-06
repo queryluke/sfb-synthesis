@@ -9,7 +9,7 @@
       </v-toolbar-title>
       <v-spacer />
       <v-toolbar-items>
-        <v-switch v-model="fourPlayer" color="red darken-3" hide-details class="my-auto mr-4">
+        <v-switch v-model="fourPlayer" color="red darken-3" hide-details class="my-auto">
           <template #label>
             <v-icon large class="mr-0 ml-n2">
               {{ fourPlayer ? 'mdi-numeric-4' : 'mdi-numeric-2' }}

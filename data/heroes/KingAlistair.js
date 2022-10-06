@@ -1,7 +1,7 @@
 export const KingAlistair = {
   id: 'kingalistair',
   name: 'King Alistair',
-  avatar: '/img/king_alistair.jpg',
+  avatar: 'img/king_alistair.jpg',
   cards: [
     {
       type: 'hero',

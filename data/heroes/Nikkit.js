@@ -1,7 +1,7 @@
 export const Nikkit = {
   id: 'nikkit',
   name: 'Nikkit',
-  avatar: '/img/nikkit.jpg',
+  avatar: 'img/nikkit.jpg',
   cards: [
     {
       type: 'hero',

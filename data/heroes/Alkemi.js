@@ -1,7 +1,7 @@
 export const Alkemi = {
   id: 'alkemi',
   name: 'Al\'kemi',
-  avatar: '/img/alkemi.jpg',
+  avatar: 'img/alkemi.jpg',
   cards: [
     {
       type: 'hero',

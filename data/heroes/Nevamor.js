@@ -1,7 +1,7 @@
 export const Nevamor = {
   id: 'nevamor',
   name: 'Nevamor',
-  avatar: '/img/nevamor.jpg',
+  avatar: 'img/nevamor.jpg',
   cards: [
     {
       type: 'hero',

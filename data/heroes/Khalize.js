@@ -1,7 +1,7 @@
 export const Khalize = {
   id: 'khalize',
   name: 'Khalize',
-  avatar: '/img/khalize.jpg',
+  avatar: 'img/khalize.jpg',
   cards: [
     {
       type: 'hero',

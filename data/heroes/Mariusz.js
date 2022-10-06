@@ -1,7 +1,7 @@
 export const Mariusz = {
   id: 'mariusz',
   name: 'Mariusz',
-  avatar: '/img/mariusz.jpg',
+  avatar: 'img/mariusz.jpg',
   cards: [
     {
       type: 'hero',

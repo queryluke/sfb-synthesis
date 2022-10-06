@@ -1,7 +1,7 @@
 export const Sulka = {
   id: 'sulka',
   name: 'Sulka',
-  avatar: '/img/sulka.jpg',
+  avatar: 'img/sulka.jpg',
   cards: [
     {
       type: 'hero',

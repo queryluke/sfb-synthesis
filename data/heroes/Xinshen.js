@@ -1,7 +1,7 @@
 export const Xinshen = {
   id: 'xinshen',
   name: 'Xinshén',
-  avatar: '/img/xinshen.jpg',
+  avatar: 'img/xinshen.jpg',
   cards: [
     {
       type: 'hero',

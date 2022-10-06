@@ -1,7 +1,7 @@
 export const TzuXiao = {
   id: 'tzuxiao',
   name: 'Tzu Xiao',
-  avatar: '/img/tzu_xiao.jpg',
+  avatar: 'img/tzu_xiao.jpg',
   cards: [
     {
       type: 'hero',

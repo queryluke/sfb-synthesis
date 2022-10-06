@@ -1,7 +1,7 @@
 export const Kolel = {
   id: 'kolel',
   name: "Ko'lel",
-  avatar: '/img/kolel.jpg',
+  avatar: 'img/kolel.jpg',
   cards: [
     {
       type: 'hero',

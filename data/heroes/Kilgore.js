@@ -1,7 +1,7 @@
 export const Kilgore = {
   id: 'kilgore',
   name: 'Kilgore',
-  avatar: '/img/kilgore.jpg',
+  avatar: 'img/kilgore.jpg',
   cards: [
     {
       type: 'hero',

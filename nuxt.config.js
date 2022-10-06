@@ -6,11 +6,14 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/sfb-synthesis/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - sfb-synthesis',
-    title: 'sfb-synthesis',
+    titleTemplate: '%s - SFB Synthesis',
+    title: 'SFB Synthesis',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -28,7 +31,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    {src: '~/plugins/chart.client.js' }
+    { src: '~/plugins/chart.client.js' }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

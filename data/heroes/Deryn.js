@@ -1,7 +1,7 @@
 export const Deryn = {
   id: 'deryn',
   name: 'Deryn',
-  avatar: '/img/deryn.jpg',
+  avatar: 'img/deryn.jpg',
   cards: [
     {
       type: 'hero',

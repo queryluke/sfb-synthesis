@@ -1,7 +1,7 @@
 export const SirTentaclot = {
   id: 'sirtentaclot',
   name: 'Sir Tentaclot',
-  avatar: '/img/sir_tentaclot.jpg',
+  avatar: 'img/sir_tentaclot.jpg',
   cards: [
     {
       type: 'hero',

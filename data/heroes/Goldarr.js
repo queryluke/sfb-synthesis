@@ -1,7 +1,7 @@
 export const Goldarr = {
   id: 'goldarr',
   name: 'Gold\'arr',
-  avatar: '/img/goldarr.jpg',
+  avatar: 'img/goldarr.jpg',
   cards: [
     {
       type: 'hero',
